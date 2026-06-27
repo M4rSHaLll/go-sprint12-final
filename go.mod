@@ -1,6 +1,6 @@
 module github.com/M4rSHaLll/go-sprint12-final
 
-go 1.25.6
+go 1.25.0
 
 require (
 	github.com/stretchr/testify v1.11.1
